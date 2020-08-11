@@ -8,13 +8,62 @@
     self.goToFolder = function (folder) {
         self.chosenFolderId(folder);
         self.chosenMailData(null);
-        $.get("/Home/Email", { folder: folder }, self.chosenFolderData);
+        $.ajax({
+            url: "/Home/Email",
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                var emails = JSON.parse(response);
+                var emailArray = [];
+
+                for (var i = 0; i < emails.length; i++) {
+                    if (emails[i].Folder == folder) {
+                        emailArray.push({
+                            id: emails[i].Id, folder: emails[i].Folder, from: emails[i].From,
+                            to: emails[i].To, subject: emails[i].Subject, date: emails[i].Date,
+                            message: emails[i].Message
+                        });
+                    }
+                }
+
+                self.chosenFolderData({ mails: emailArray });
+            },
+            failure: function (response) {
+                alert(response);
+            },
+            error: function (response) {
+                alert(response)
+            }
+        });
     };
 
     self.goToMail = function (mail) {
         self.chosenFolderId(mail.folder);
         self.chosenFolderData(null);
-        $.get("/Home/Email", { mailId: mail.id }, self.chosenMailData);
+        $.ajax({
+            url: "/Home/Email",
+            type: "GET",
+            contentType: "application/json; charset=utf-8",
+            dataType: "json",
+            success: function (response) {
+                var emails = JSON.parse(response);
+                for (var i = 0; i < emails.length; i++) {
+                    if (emails[i].Id == mail.id) {
+                        self.chosenMailData({
+                            from: emails[i].From, to: emails[i].To, subject: emails[i].Subject,
+                            date: emails[i].Date, message: emails[i].Message
+                        });
+                    }
+                }
+            },
+            failure: function (response) {
+                alert(response);
+            },
+            error: function (response) {
+                alert(response)
+            }
+        });
     };
 
     self.goToFolder('Inbox');
