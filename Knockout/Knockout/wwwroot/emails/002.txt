@@ -1,0 +1,10 @@
+Folder: Inbox
+ENDFOLDER
+From: bwayne@wayneenterprises.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: New Secretary...
+ENDSUBJECT
+Message: I'd appreciate it if you kept an eye on your new secretary. I can't be sure but she might be more than meets the eye.
+ENDMESSAGE

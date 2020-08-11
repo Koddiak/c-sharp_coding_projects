@@ -1,0 +1,10 @@
+Folder: Sent
+ENDFOLDER
+From: lfox@wayneenterprises.com
+ENDFROM
+To: bwayne@wayneenterprises.com
+ENDTO
+Subject: Device
+ENDSUBJECT
+Message: Hello, Mr. Wayne, I hope you find yourself having a good day. The device is in the usual spot. Please use it responsibly.
+ENDMESSAGE

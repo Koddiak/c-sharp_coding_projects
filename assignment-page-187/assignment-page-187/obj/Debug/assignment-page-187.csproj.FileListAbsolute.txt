@@ -1,0 +1,7 @@
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\bin\Debug\assignment-page-187.exe.config
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\bin\Debug\assignment-page-187.exe
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\bin\Debug\assignment-page-187.pdb
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\obj\Debug\assignment-page-187.csprojAssemblyReference.cache
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\obj\Debug\assignment-page-187.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\obj\Debug\assignment-page-187.exe
+C:\GitHub\repositories\c-sharp_basic_projects\Assigments\assignment-page-187\assignment-page-187\obj\Debug\assignment-page-187.pdb

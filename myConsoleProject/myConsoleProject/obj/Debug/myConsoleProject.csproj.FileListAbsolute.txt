@@ -1,0 +1,7 @@
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csprojAssemblyReference.cache
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\GitHub\repositories\c-sharp_basic_projects\myConsoleProject\myConsoleProject\obj\Debug\myConsoleProject.pdb

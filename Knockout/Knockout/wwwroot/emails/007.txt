@@ -1,0 +1,10 @@
+Folder: Archive
+ENDFOLDER
+From: bwayne@wayneenterprises.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Happy Birthday
+ENDSUBJECT
+Message: Happy Birthday, Lucius. I hope you have a great day with your wife and kids, you've more than earned it. I left you a little something in your whisky cabinet. Cheers.
+ENDMESSAGE

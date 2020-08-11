@@ -1,0 +1,10 @@
+Folder: Archive
+ENDFOLDER
+From: apennyworth@email.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Master Bruce
+ENDSUBJECT
+Message: Master Bruce hasn't returned home for an entire week now. I'm worried about him, Mr. Fox. Please keep an eye out for him.
+ENDMESSAGE

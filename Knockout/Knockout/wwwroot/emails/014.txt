@@ -1,0 +1,10 @@
+Folder: Sent
+ENDFOLDER
+From: lfox@wayneenterprises.com
+ENDFROM
+To: tfox@email.com
+ENDTO
+Subject: Tonight
+ENDSUBJECT
+Message: I'm picking up a little something on the way home. See you soon, Tanya. xoxo
+ENDMESSAGE

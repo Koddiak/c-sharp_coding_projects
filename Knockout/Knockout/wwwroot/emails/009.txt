@@ -1,0 +1,10 @@
+Folder: Archive
+ENDFOLDER
+From: bwayne@wayneenterprises.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Luke
+ENDSUBJECT
+Message: Don't worry, Lucius. I'll look after Luke to the best of my ability. I appreciate your trust in me.
+ENDMESSAGE

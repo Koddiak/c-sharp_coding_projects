@@ -1,0 +1,10 @@
+Folder: Sent
+ENDFOLDER
+From: lfox@wayneenterprises.com
+ENDFROM
+To: bwayne@wayneenterprises.com
+ENDTO
+Subject: New Office
+ENDSUBJECT
+Message: Hello, Mr. Wayne, I just wanted to thank you again for the new office. I appreciate all you've done for me. Thank you.
+ENDMESSAGE

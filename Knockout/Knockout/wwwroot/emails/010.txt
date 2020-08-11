@@ -1,0 +1,10 @@
+Folder: Archive
+ENDFOLDER
+From: vvale@gothamcitygazette.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Mr. Wayne
+ENDSUBJECT
+Message: Hello, Mr. Fox. I was told to speak to you in regards to your employer. How's tomorrow sound?
+ENDMESSAGE

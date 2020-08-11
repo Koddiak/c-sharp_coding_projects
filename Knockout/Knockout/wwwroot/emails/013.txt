@@ -1,0 +1,10 @@
+Folder: Sent
+ENDFOLDER
+From: lfox@wayneenterprises.com
+ENDFROM
+To: apennyworth@email.com
+ENDTO
+Subject: Bruce
+ENDSUBJECT
+Message: Hello, Mr. Pennyworth. Mr. Wayne has been secluding himself in his office again. You know how he is. I'll send your message along to him.
+ENDMESSAGE

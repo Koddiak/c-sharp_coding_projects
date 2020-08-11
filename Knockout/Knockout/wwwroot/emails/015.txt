@@ -1,0 +1,10 @@
+Folder: Sent
+ENDFOLDER
+From: lfox@wayneenterprises.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Note To Self
+ENDSUBJECT
+Message: Buy some more milk on the way home.
+ENDMESSAGE

@@ -1,0 +1,10 @@
+Folder: Spam
+ENDFOLDER
+From: 8D^uJg!a8Y%MAw@email.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: TREAT AS IMMEDIATE !!
+ENDSUBJECT
+Message: PLEASE, I need your help retrieving my savings! >>CLICK HERE<<
+ENDMESSAGE

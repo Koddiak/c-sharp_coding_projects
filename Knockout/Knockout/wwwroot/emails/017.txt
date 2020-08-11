@@ -1,0 +1,10 @@
+Folder: Spam
+ENDFOLDER
+From: LmekAjz$a8%AHa@email.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Enjoy Clean Gutters for Life!
+ENDSUBJECT
+Message: lfox, Clean your Gutters for Free! >>CLICK HERE<<
+ENDMESSAGE

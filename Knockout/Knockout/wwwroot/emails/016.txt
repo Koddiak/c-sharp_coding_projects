@@ -1,0 +1,10 @@
+Folder: Spam
+ENDFOLDER
+From: mz77pbo#wFyF9B@email.com
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Miracle Drug!
+ENDSUBJECT
+Message: New miracle drug that cures what ails you! >>CLICK HERE<<
+ENDMESSAGE

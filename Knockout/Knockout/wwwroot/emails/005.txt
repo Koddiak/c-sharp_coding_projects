@@ -1,0 +1,10 @@
+Folder: Inbox
+ENDFOLDER
+From: ballen@starlabs.org
+ENDFROM
+To: lfox@wayneenterprises.com
+ENDTO
+Subject: Equipment
+ENDSUBJECT
+Message: On behalf of the crew here at Star Labs, thank you for the top of the line lab equipment you put together for us. I have no idea how you do it but you're a life saver, Lucius. Tell Bruce I said hi and I appreciate the donation.
+ENDMESSAGE
